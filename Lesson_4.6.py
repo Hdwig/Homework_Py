@@ -24,3 +24,4 @@ for i in a_gen:
         if t == cw + 1:
             break
     print(i)
+

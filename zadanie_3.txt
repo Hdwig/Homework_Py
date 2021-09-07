@@ -1,0 +1,10 @@
+Ivanov 16827
+Smirnov 37964
+Kuznecov 23615
+Popov 12023
+Vasil'ev 67820
+Petrov 44444
+Sokolov 33628
+Mihailov 42786
+Novikov 9620
+Fedorov 1000
